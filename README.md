@@ -9,8 +9,9 @@
    <p>Esta Página inclui 3 tipos de dados que recolhe, O Nome, a Idade, e uma Password nova. Estes Dados são todos obrigatorios e têm parametros para garantir que a recolha de informação não tenha bugs.</p>
    <h3>Processamento de Dados</h3>
    <p>Após receber os dados da página do formulário, o site vai processar os dados numa nova página para fazer 3 coisas</p>
-    <p>  - Area Principal para mostrar os membros, com links que redirecionam para um pequeno "Curriculo" </p>
-    <p>  - Páginas para "Mini-Curriculo" de cada um dos membros, que exibe as experiencias e competencias dos mesmos</p>
+    <p>  - Mensagem de Boas Vindas com o nome óbtido (I.e Hello, [Nome Inserido]! Welcome!)  </p>
+    <p>  - Categorizar o utilizador em 3 grupos de idade (I.e Crianças, Adulescentes e Adultos) a partir da idade recebida</p>
+    <p>  - Avaliar a segurança da password inserida de acordo com os caracteres escritos, e indicar a segurança da mesma com uma mensagem que varia de cor e dicas de como a melhorar de acordo com o nível de segurança (I.e Fraca, Média e Forte)</p>
 <h2>
    
 </h2>
