@@ -1,8 +1,8 @@
 # Fichas-Pratica-01-M5-14648 | Página de Log In
-<i>[Link Principa](https://a14648-oficina.infinityfree.me/2I-REDES-M5-FP01/) </i>
+<i>[Link Principal](https://a14648-oficina.infinityfree.me/2I-REDES-M5-FP01/) </i>
 <h2>O Que é esta Ficha Prática</h2>
 <p>
-   Nesta Ficha, foi encarregado de criar este site de apresentação de Equipa, quase como um portefolio de trabalhos. Este projeto inclui tudo que um site com o preposito de exibir uma equipa precisa. 
+   Nesta Ficha, eu fiz uma página bastante básica de log in e recolha de informação, que leva para uma página nova que utiliza a informação inserida. 
 </p>
 <h2>Funcionalidades do Projeto</h2>
 
